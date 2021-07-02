@@ -1,0 +1,58 @@
+
+small{
+    color: #ffffff;
+    display: block;
+    text-align: right;
+}
+
+
+#tra{
+    text-align: center;
+     font-family: Georgia, 'Times New Roman', Times, serif;
+    font-weight: 900;
+    background-color: #DA0037;
+    border: 5px solid #860a29;
+    padding: 10px;
+    margin: 20px 40px;
+    border-radius: 10px;
+    color: white;
+    stroke: black 100;
+
+}
+
+
+.image{
+    
+    border-radius: 10px;
+    border:3px dashed white;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
+.blog{
+    background-color: rgb(104, 104, 104);
+    border: 5px solid #464242;
+    border-radius: 10px;
+    margin: 20px  40Px;
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-bottom: 20px;
+    }
+    
+ .blog p{
+     
+     text-align: justify;
+     font-size: 24px;
+ }
+.blog-title{
+    text-align: center;
+    font-weight: 800;
+    font-family: Georgia, 'Times New Roman', Times, serif; 
+    font-size: 50px;
+}
+
+.author{
+    color: #DA0037;
+    
+}
